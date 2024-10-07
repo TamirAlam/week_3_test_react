@@ -1,0 +1,25 @@
+.navbar {
+  background-color: #339966;
+  height: 10vh;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+.navigators {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
+.navigator-btn {
+  border: none;
+  margin: 0% 4%;
+  background-color: #339966;
+  color: white;
+  height: 50%;
+  padding: 0% 2%;
+  border-radius: 2px;
+  font-weight: bold;
+}
